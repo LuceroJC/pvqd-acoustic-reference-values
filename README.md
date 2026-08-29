@@ -21,7 +21,6 @@ PhonaLab analysis engine (Parselmouth 0.4.x / Praat 6.1.38).
 | `pvqd_vowel_params_production.csv` | Acoustic parameters for all 290 PVQD speakers, extracted with the PhonaLab production pipeline. |
 | `pvqd_reference_paper_analysis.py` | Computes all reference values, bootstrap CIs, sex-stratified analyses, and sensitivity analyses. Outputs CSV files corresponding to the paper's tables. |
 | `make_figures.py` | Generates Figures 1 (distribution panels) and 2 (sex-stratified forest plot). |
-| `Supplemental_Notes.pdf` | Supplemental Material S1 (complete Praat call specification, Table S1) and S2 (healthy-boundary sensitivity analysis, Table S2). |
 | `README.md` | This file. |
 
 ---
