@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22167083.svg)](https://doi.org/10.5281/zenodo.22167083)
+
 # Suplementary materials for:
 # Sex-Stratified Percentile Reference Values for Six Common Acoustic Measures of Voice from the Perceptual Voice Qualities Database
 
