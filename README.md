@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22167082.svg)](https://doi.org/10.5281/zenodo.22167082)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24310864.svg)](https://doi.org/10.5281/zenodo.24310864)
 
 # Reproducibility materials for:
 # Percentile Reference Values for Six Acoustic Measures of Voice From the Perceptual Voice Qualities Database: Sex Differences and Their Dependence on Fundamental Frequency
@@ -7,7 +7,7 @@ Lucero, J. C. (2026). *American Journal of Speech-Language Pathology*.
 [DOI to be added upon publication]
 
 Concept DOI of this deposit (always resolves to the latest version): https://doi.org/10.5281/zenodo.22167082
-This version: [[version DOI]]
+This version: https://doi.org/10.5281/zenodo.24310864
 
 ---
 
