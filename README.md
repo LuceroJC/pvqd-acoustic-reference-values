@@ -6,7 +6,7 @@
 Lucero, J. C. (2026). *American Journal of Speech-Language Pathology*.
 [DOI to be added upon publication]
 
-Concept DOI of this deposit (always resolves to the latest version): https://doi.org/10.5281/zenodo.22167083
+Concept DOI of this deposit (always resolves to the latest version): https://doi.org/10.5281/zenodo.22167082
 This version: [[version DOI]]
 
 ---
@@ -172,7 +172,7 @@ Please cite both the paper and this deposit:
 > Pathology*. [DOI]
 
 > Lucero, J. C. (2026). pvqd-acoustic-reference-values [Computer software].
-> Zenodo. https://doi.org/10.5281/zenodo.22167083
+> Zenodo. https://doi.org/10.5281/zenodo.22167082
 
 ---
 
